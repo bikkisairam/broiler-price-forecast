@@ -1,0 +1,7 @@
+pandas
+numpy
+xgboost
+optuna
+scikit-learn
+mlflow
+joblib
